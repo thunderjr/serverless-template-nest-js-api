@@ -1,12 +1,11 @@
 {
-  "name": "serverless-nest",
+  "name": "serverless-nest-js",
   "version": "1.0.0",
   "scripts": {
     "build": "nest build --webpack",
     "start": "serverless offline"
   },
   "dependencies": {
-    "@grupo-gcb/exchange": "^0.0.78",
     "@nestjs/common": "^9.1.1",
     "@nestjs/core": "^9.1.1",
     "aws-lambda": "^1.0.7",
